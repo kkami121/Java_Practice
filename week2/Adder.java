@@ -10,9 +10,7 @@ public class Adder{
 		int i = input.nextInt();
 		int j = input.nextInt();
 		
+		System.out.println(i + " + " + j + " = " + (i+j));
 		
-		System.out.println(i + " + " + j " = "+ (i+j));
-		
-		input.close();
 	}
 }
