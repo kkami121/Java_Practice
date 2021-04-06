@@ -5,8 +5,9 @@ public class Summation2{
 		
 		Scanner input = new Scanner(System.in);
 		
-		System.out.print("1부터 얼마까지의 자연수를 더하시겠습니까? ");
+		
 		int n1 = input.nextInt();
+		System.out.print("1부터 얼마까지의 자연수를 더하시겠습니까? ");
 		int sum = 0;
 		int i;
 		
