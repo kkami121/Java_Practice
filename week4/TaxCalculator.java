@@ -1,3 +1,4 @@
+package week4;
 import java.util.Scanner;
 /*
 소득을 입력하고 그에 맞는 소득세를 구하는 프로그램

@@ -1,3 +1,4 @@
+package week4;
 import java.util.Scanner;
 /*
 입력 받은 숫자만큼의 층을 이루는 역삼각형을 만드는 프로그램

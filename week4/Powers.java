@@ -1,3 +1,4 @@
+package week4;
 import java.util.Scanner;
 /*
 원하는 0 이상의 정수 만큼 2의 제곱을 구하는 프로그램

@@ -1,3 +1,4 @@
+package week4;
 import java.util.Scanner;
 /*
 사용자에게 메뉴를 보여주고 사용자 입력에 따라 작동하는 ATM 기계 프로그램

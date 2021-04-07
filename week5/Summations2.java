@@ -1,3 +1,4 @@
+package week5;
 import java.util.Scanner;
 /*
 십 단위의 수 사이의 자연수 합을 구하는 프로그램

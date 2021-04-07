@@ -1,3 +1,4 @@
+package week4;
 import java.util.Scanner;
 /*
 3개의 정수를 입력 받아 오름차순으로 정렬 후 출력하는 프로그램

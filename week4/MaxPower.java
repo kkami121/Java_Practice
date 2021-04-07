@@ -1,3 +1,4 @@
+package week4;
 import java.util.Scanner;
 /*
 입력 받는 수보다 작거나 같은 2의 거듭제곱 중 가장 큰 수를 구하는 프로그램

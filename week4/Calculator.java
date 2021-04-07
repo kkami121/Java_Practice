@@ -1,3 +1,4 @@
+package week4;
 import java.util.Scanner;
 /*
 switch문을 이용하여 숫자와 연산을 입력받고 그에 맞는 연산결과를 출력하는 프로그램

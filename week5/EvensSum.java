@@ -1,3 +1,4 @@
+package week5;
 import java.util.Scanner;
 /*
 두 개의 정수를 입력 받아 두 수 사이에 있는 모든 짝수들의 합을 구하는 프로그램

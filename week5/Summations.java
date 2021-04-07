@@ -1,3 +1,4 @@
+package week5;
 import java.util.Scanner;
 /*
 입력 받은 수 이하의 자연수의 합을 구하는 프로그램

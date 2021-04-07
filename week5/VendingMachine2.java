@@ -1,3 +1,4 @@
+package week5;
 import java.util.Scanner;
 /*
 커피, 아스이크림, 자판기 프로그램.

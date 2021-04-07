@@ -1,3 +1,4 @@
+package week1;
 public class PrintKangwon {
 
     public static void main(String args[]){

@@ -1,3 +1,4 @@
+package week1;
 public class PrintTest1 {
 
     public static void main(String args[]){

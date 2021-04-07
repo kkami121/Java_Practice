@@ -1,3 +1,4 @@
+package week5;
 import java.util.Scanner;
 /*
 크기를 입력받아 역삼각형을 출력하는 프로그램

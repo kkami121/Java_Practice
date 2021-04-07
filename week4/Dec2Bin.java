@@ -1,3 +1,4 @@
+package week4;
 import java.util.Scanner;
 /*
 입력 받은 십진수를 이진수로 변환하는 프로그램

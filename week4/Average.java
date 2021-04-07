@@ -1,3 +1,4 @@
+package week4;
 import java.util.Scanner;
 /*
 입력 받은 양수들의 평균을 구하는 프로그램
