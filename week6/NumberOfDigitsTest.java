@@ -1,3 +1,4 @@
+package week6;
 import java.util.Scanner;
 /*
 입력 받은 정수의 자리 수를 알려주는 프로그램

@@ -1,3 +1,4 @@
+package week6;
 /*
 주어진 정수가 소수인지 여부를 판별하는 프로그램
 방법이 다른 isPrime1과 isPrime2 메소드를 호출하여 구현

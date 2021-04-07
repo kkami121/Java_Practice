@@ -1,3 +1,4 @@
+package week6;
 import java.util.Scanner;
 /*
 입력 받은 수보다 작거나 같은 최대 정수의 제곱수를 찾는 프로그램

@@ -1,3 +1,4 @@
+package week6;
 /*
 int 타입의 정수를 입력받고 자리수와 각 자리수의 숫자를 차례대로 출력하는 프로그램
 p6에서 만들었던 powersOfTen와 numberOfDigits 함수를 사용
