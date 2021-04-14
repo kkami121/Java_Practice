@@ -1,3 +1,4 @@
+package week3;
 public class ThreeMultiples{
 	
 	public static void main(String[] args){

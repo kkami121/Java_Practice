@@ -1,3 +1,4 @@
+package week2;
 public class Summation{
 	public static void main(String[] args){
 		
