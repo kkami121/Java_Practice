@@ -24,11 +24,11 @@ public class Average{
 		while(!end){
 			System.out.print("숫자를 입력하시오: ");
 			n = input.nextDouble();
-			if( n > 0){
+			if(n > 0){
 				sum = sum + n;
 				count++;
 				} else
-						end = true;
+					end = true;
 		}
 		if(count > 0){
 			System.out.printf("평균 = %.2f", sum / count);
